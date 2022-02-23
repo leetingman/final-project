@@ -6,13 +6,16 @@ potato market은 위치 기반의 중고거래 웹 사이트 입니다. 가까�
 ## ⚙️ 개발환경 및 기술
 
   
+  System env: Microsoft Window 10  
+  IDE : Eclipse  
+  
 
   backend :  SpringBoot_2.6.3.RELEASE + Mybatis_3.5.9+MongoDB_3.12.5+MySQL_8.0 +Amazon RDS  
-  frontend : JSP + Jquery + Apache Tiles + WebSocket +BootStrap 4+KakaoAPI
-  
- ================
- 추가추가추가 논문쓰고 수정
- ================
+    
+   frontend : JSP + Jquery + Apache Tiles + WebSocket +BootStrap 4+KakaoAPI
+
+  others : Jira Software + notion
+
   
   
 
@@ -45,8 +48,15 @@ potato market은 위치 기반의 중고거래 웹 사이트 입니다. 가까�
 
 
 ## 📝 프로젝트 관리
-https://project-kosta.atlassian.net/jira/software/projects/POTATO/boards/1/roadmap
-
+<details>
+  <summary>1. notion </summary>
+   https://www.notion.so/Potato-Market-66aaa00ed3324bbb88d1dc421cf50adc
+  
+</details>
+<details>
+  <summary>2. Jira </summary>
+   https://project-kosta.atlassian.net/jira/software/projects/POTATO/boards/1
+</details>
 
 
 
